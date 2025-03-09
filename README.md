@@ -3,10 +3,10 @@
 - 🌱 I’m currently learning Java, C/C++, Python
 - 📫 Any Professional emails go to bluelegendsdev@gmail.com
 - 😄 Pronouns: She/Her
-itch.io/bluelegends - the games I've Made
-Autism Creature Simulator 
-The Shane Likes to Shoot series 
-Edwin and George
+- [itch.io/bluelegends](https://blue-legends.itch.io/) - the games I've Made
+    Autism Creature Simulator 
+    The Shane Likes to Shoot series 
+    Edwin and George
 
 <!---
 MistorRonan/MistorRonan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
